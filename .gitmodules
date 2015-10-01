@@ -1,181 +1,181 @@
 [submodule "qtbase"]
 	path = qtbase
-	url = ../qtbase.git
+	url = https://github.com/stinb/qtbase.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtsvg"]
 	path = qtsvg
-	url = ../qtsvg.git
+	url = git://code.qt.io/qt/qtsvg.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtdeclarative"]
 	path = qtdeclarative
-	url = ../qtdeclarative.git
+	url = git://code.qt.io/qt/qtdeclarative.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtactiveqt"]
 	path = qtactiveqt
-	url = ../qtactiveqt.git
+	url = git://code.qt.io/qt/qtactiveqt.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtscript"]
 	path = qtscript
-	url = ../qtscript.git
+	url = git://code.qt.io/qt/qtscript.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtmultimedia"]
 	path = qtmultimedia
-	url = ../qtmultimedia.git
+	url = git://code.qt.io/qt/qtmultimedia.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qttools"]
 	path = qttools
-	url = ../qttools.git
+	url = git://code.qt.io/qt/qttools.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtxmlpatterns"]
 	path = qtxmlpatterns
-	url = ../qtxmlpatterns.git
+	url = git://code.qt.io/qt/qtxmlpatterns.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qttranslations"]
 	path = qttranslations
-	url = ../qttranslations.git
+	url = git://code.qt.io/qt/qttranslations.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtdoc"]
 	path = qtdoc
-	url = ../qtdoc.git
+	url = git://code.qt.io/qt/qtdoc.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtrepotools"]
 	path = qtrepotools
-	url = ../qtrepotools.git
+	url = git://code.qt.io/qt/qtrepotools.git
 	branch = master
 	initrepo = true
 [submodule "qtwebkit"]
 	path = qtwebkit
-	url = ../qtwebkit.git
+	url = git://code.qt.io/qt/qtwebkit.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtwebkit-examples"]
 	path = qtwebkit-examples
-	url = ../qtwebkit-examples.git
+	url = git://code.qt.io/qt/qtwebkit-examples.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtqa"]
 	path = qtqa
-	url = ../qtqa.git
+	url = git://code.qt.io/qt/qtqa.git
 	branch = master
 	initrepo = true
 [submodule "qtlocation"]
 	path = qtlocation
-	url = ../qtlocation.git
+	url = git://code.qt.io/qt/qtlocation.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtsensors"]
 	path = qtsensors
-	url = ../qtsensors.git
+	url = git://code.qt.io/qt/qtsensors.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtsystems"]
 	path = qtsystems
-	url = ../qtsystems.git
+	url = git://code.qt.io/qt/qtsystems.git
 	branch = dev
 [submodule "qtfeedback"]
 	path = qtfeedback
-	url = ../qtfeedback.git
+	url = git://code.qt.io/qt/qtfeedback.git
 	branch = master
 [submodule "qtdocgallery"]
 	path = qtdocgallery
-	url = ../qtdocgallery.git
+	url = git://code.qt.io/qt/qtdocgallery.git
 	branch = master
 [submodule "qtpim"]
 	path = qtpim
-	url = ../qtpim.git
+	url = git://code.qt.io/qt/qtpim.git
 	branch = dev
 [submodule "qtconnectivity"]
 	path = qtconnectivity
-	url = ../qtconnectivity.git
+	url = git://code.qt.io/qt/qtconnectivity.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtwayland"]
 	path = qtwayland
-	url = ../qtwayland.git
+	url = git://code.qt.io/qt/qtwayland.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qt3d"]
 	path = qt3d
-	url = ../qt3d.git
+	url = git://code.qt.io/qt/qt3d.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtimageformats"]
 	path = qtimageformats
-	url = ../qtimageformats.git
+	url = git://code.qt.io/qt/qtimageformats.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtquick1"]
 	path = qtquick1
-	url = ../qtquick1.git
+	url = git://code.qt.io/qt/qtquick1.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtgraphicaleffects"]
 	path = qtgraphicaleffects
-	url = ../qtgraphicaleffects.git
+	url = git://code.qt.io/qt/qtgraphicaleffects.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtquickcontrols"]
 	path = qtquickcontrols
-	url = ../qtquickcontrols.git
+	url = git://code.qt.io/qt/qtquickcontrols.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtserialport"]
 	path = qtserialport
-	url = ../qtserialport.git
+	url = git://code.qt.io/qt/qtserialport.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtx11extras"]
 	path = qtx11extras
-	url = ../qtx11extras.git
+	url = git://code.qt.io/qt/qtx11extras.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtmacextras"]
 	path = qtmacextras
-	url = ../qtmacextras.git
+	url = git://code.qt.io/qt/qtmacextras.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtwinextras"]
 	path = qtwinextras
-	url = ../qtwinextras.git
+	url = git://code.qt.io/qt/qtwinextras.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtandroidextras"]
 	path = qtandroidextras
-	url = ../qtandroidextras.git
+	url = git://code.qt.io/qt/qtandroidextras.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtenginio"]
 	path = qtenginio
-	url = ../qtenginio.git
+	url = git://code.qt.io/qt/qtenginio.git
 	branch = 1.2.1
 	initrepo = true
 [submodule "qtwebsockets"]
 	path = qtwebsockets
-	url = ../qtwebsockets.git
+	url = git://code.qt.io/qt/qtwebsockets.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtwebchannel"]
 	path = qtwebchannel
-	url = ../qtwebchannel.git
+	url = git://code.qt.io/qt/qtwebchannel.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtwebengine"]
 	path = qtwebengine
-	url = ../qtwebengine.git
+	url = git://code.qt.io/qt/qtwebengine.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtcanvas3d"]
 	path = qtcanvas3d
-	url = ../qtcanvas3d.git
+	url = git://code.qt.io/qt/qtcanvas3d.git
 	branch = 5.5.1
 	initrepo = true
